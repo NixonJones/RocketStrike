@@ -1,11 +1,11 @@
-RocketStrike
+# RocketStrike
 Allows admins to shoot rockets from different positions around their character.
 
-Installation
+# Installation
 Upload the .cs file to /oxide/plugins/.
 If your server is running, the plugin will start automatically.
 
-Usage
+# Usage
 **Chat** Command
 Command: `/strike [amount]`
 Permission: N/A (Only available to admins)
@@ -23,11 +23,11 @@ This console command allows admins to shoot rockets from different positions aro
 # Bind a Key
 You may bind this command by typing in F1 console `bind KEY <rocketsAmount>`
 
-Contributing
+# Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
 
-Support
+# Support
 If you need help with this plugin, submit a request on the Help page of the plugin
 
-License
+# License
 This project is licensed under the GNU GPLv3 License.
